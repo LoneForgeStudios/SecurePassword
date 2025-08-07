@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("SecurePassword— Генератор Безопасностных паролей");
+        Console.WriteLine("SecurePassword — Генератор Безопасностных паролей");
 
         Console.Write("Введите длину пароля: ");
         if (!int.TryParse(Console.ReadLine(), out int length) || length <= 0)
