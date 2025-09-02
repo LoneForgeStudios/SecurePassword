@@ -15,8 +15,8 @@
 
 ### 🛠 Установка и запуск
 
-`bash
-git clone https://github.com/yourusername/SecurePasswordGen.git
+```bash
+git clone https://github.com/LoneForgeStudios/SecurePasswordGen.git
 cd SecurePasswordGen
 dotnet restore
 dotnet run
