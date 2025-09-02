@@ -17,6 +17,6 @@
 
 ```bash
 git clone https://github.com/LoneForgeStudios/SecurePassword.git
-cd SecurePasswordGen
+cd SecurePassword
 dotnet restore
 dotnet run
